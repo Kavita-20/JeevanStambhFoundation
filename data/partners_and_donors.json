@@ -1,0 +1,106 @@
+    {
+        "donors": [
+            [
+                {
+                    "src": "images/jsf/partners/002.png"
+                },
+                {
+                    "src": "images/jsf/partners/003.png"
+                },
+                {
+                    "src": "images/jsf/partners/001.png"
+                },
+                {
+                    "src": "images/jsf/partners/010.png"
+                }
+            ],
+            [
+                {
+                    "src": "images/jsf/partners/004.png"
+                },
+                {
+                    "src": "images/jsf/partners/005.jpg"
+                },
+                {
+                    "src": "images/jsf/partners/007.png"
+                },
+                {
+                    "src": "images/jsf/partners/006.jpeg"
+                }
+            ],
+            [
+                {
+                    "src": "images/jsf/partners/008.jpg"
+                },
+                {
+                    "src": "images/jsf/partners/009.png"
+                }
+            ]
+        ],
+        "partners": [
+            [
+                {
+                    "src": "images/jsf/donors/002.png"
+                },
+                {
+                    "src": "images/jsf/donors/016.jpg"
+                },
+                {
+                    "src": "images/jsf/donors/003.jpg"
+                },
+                {
+                    "src": "images/jsf/donors/017.jpg"
+                }
+            ],
+            [
+                {
+                    "src": "images/jsf/donors/015.png"
+                },
+                {
+                    "src": "images/jsf/donors/001.jpg"
+                },
+                {
+                    "src": "images/jsf/donors/014.png"
+                },
+                {
+                    "src": "images/jsf/donors/010.png"
+                }
+            ],
+            [
+                {
+                    "src": "images/jsf/donors/004.jpg"
+                },
+                {
+                    "src": "images/jsf/donors/011.jpg"
+                },
+                {
+                    "src": "images/jsf/donors/005.png"
+                },
+                {
+                    "src": "images/jsf/donors/013.jpg"
+                }
+            ],
+            [
+                {
+                    "src": "images/jsf/donors/007.jpg"
+                },
+                {
+                    "src": "images/jsf/donors/012.jpg"
+                },
+                {
+                    "src": "images/jsf/donors/006.png"
+                },
+                {
+                    "src": "images/jsf/donors/008.jpg"
+                }
+            ],
+            [
+                {
+                    "src": "images/jsf/donors/009.png"
+                },
+                {
+                    "src": "images/jsf/donors/018.png"
+                }
+            ]
+        ]
+    }
