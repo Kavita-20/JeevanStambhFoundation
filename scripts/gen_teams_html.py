@@ -1,5 +1,5 @@
 """
-$ python3 /Users/saim/github/jsf/gen_teams_html.py | pbcopy
+$ python3 gen_teams_html.py | pbcopy
 """
 import names 
 
